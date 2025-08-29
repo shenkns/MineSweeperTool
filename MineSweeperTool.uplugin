@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MineSweeperTool",
+	"Description": "Mine sweeper game toolbar menu",
+	"Category": "Other",
+	"CreatedBy": "shenkns",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MineSweeperTool",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
